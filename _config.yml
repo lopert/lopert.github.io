@@ -44,7 +44,7 @@ plugins:
 
 author:
   name: "Your Name"
-  avatar: "/assets/images/bio-photo.jpg"
+  avatar: "https://pbs.twimg.com/profile_images/1001836542795509761/Z5el7oCP_400x400.jpg"
   bio: "I am an amazing person."
   location: "Somewhere"
   links:
