@@ -43,7 +43,7 @@ plugins:
 #   - vendor/ruby/
 
 author:
-  name: "Your Name"
+  name: "Alex Bradley"
   avatar: "https://pbs.twimg.com/profile_images/1001836542795509761/Z5el7oCP_400x400.jpg"
   bio: "I am an amazing person."
   location: "Somewhere"
@@ -60,3 +60,5 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/mmistakes"
+
+paginate: 5
