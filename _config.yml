@@ -61,4 +61,5 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/mmistakes"
 
-paginate: 5
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
