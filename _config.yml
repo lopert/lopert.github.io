@@ -48,7 +48,7 @@ author:
   bio: "I came here to be tested."
   location: "Ottawa, ON"
   links:
-    - label: "Made Mistakes"
+    - label: "lopert.ca"
       icon: "fas fa-fw fa-link"
       url: "https://lopert.github.io/"
     - label: "Twitter"
