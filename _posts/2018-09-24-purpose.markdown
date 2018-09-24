@@ -1,0 +1,16 @@
+---
+layout: single
+title:  "Purpose"
+categories: personal site goals
+author_profile: true
+---
+
+I've always wanted a personal website, even though I'm still unsure of the type of content I would put out.
+This is my attempt at breaking through that uncertainty wall by brute force.
+
+Yesterday, I read somewhere that there were 100 days left in 2018, which seemed like a good opportunity to set some time-based goals.
+For these days, I'd like to focus on improving my writing (mostly speed) and overall coding / tech knowledge.
+
+I do quite a bit of writing at work, mostly in direct 1-to-1 emails, but also in 1-to-many posts and tutorials. One of my big timesinks is that I will struggle to get the initial "full-picture" of the message, attempting to craft it in my mind before putting it down. More often then not, this ends up with me getting distracted by a request for help, and then coming back to my initial work still having nothing concrete. I'm hoping that by writing a blog post every now and then, I will get better at jotting down my ideas as-they-come, and refining them afterwards.
+
+On the coding side, I've ran through the initial steps of the odin project multiple times as interview prep, but never really dedicated enough time to work on it routinely. Bringing this Jekyll / Github Pages site up is the first step towards doing this kind of focused study regularly. I've also been working closely with GraphQL as an API consumer, and while I have run through parts of howtographql.com, I want to revisit it too so that I can gain a better understand of how it all works under the hood.
